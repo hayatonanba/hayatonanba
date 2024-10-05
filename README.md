@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs)](https://skillicons.dev)
 
 ## States
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=hayatonanba)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hayatonanba&show_icons=true&locale=en&layout=compact" alt="hayatonanba" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hayatonanba&show_icons=true&locale=en" alt="hayatonanba" /></p>
