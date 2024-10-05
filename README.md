@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs)](https://skillicons.dev)
