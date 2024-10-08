@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs)](https://skillicons.dev)
+## Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind,figma)](https://skillicons.dev)
