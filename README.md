@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+Hello, I'm Hayato Nanba.
+I'm a sophomore currently in college.
+I love doing and learning programming. I am learning everyday.
+Nice to meet you!
 <!--
 **hayatonanba/hayatonanba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
