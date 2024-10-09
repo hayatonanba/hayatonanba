@@ -18,5 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<table>
+<tr><td><b>Date</b><td><b>Event</b><td><b>Award</b><td><b>Work</b>
+<tr><td>2024.8.25<td>サポーターズ 技育キャンプハッカソン<td>優秀賞<td>MacLay Rush
+<tr><td>2024.9.15<td>サポーターズ 技育キャンプハッカソン<td>努力賞<td>文化祭サイト
+</table>
+
 ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind,figma)](https://skillicons.dev)
