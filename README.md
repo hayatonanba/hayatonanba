@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 </table>
 
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind,expressjs,postman,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind,redux,expressjs,postman,figma)](https://skillicons.dev)
