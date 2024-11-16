@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 </table>
 
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind,redux,expressjs,firebase,postgresql,bun,postman,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind,redux,expressjs,firebase,supabase,postgresql,bun,postman,figma)](https://skillicons.dev)
