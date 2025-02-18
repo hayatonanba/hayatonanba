@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 </table>
 
 ## Languages and Tools
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,react,nextjs,tailwind,expressjs,hono,prisma,firebase,supabase,postgresql,bun,postman,figma)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,react,nextjs,tailwind,expressjs,hono,prisma,firebase,supabase,postgresql,bun,storybook,postman,figma)
