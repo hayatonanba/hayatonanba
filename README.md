@@ -28,5 +28,8 @@ Here are some ideas to get you started:
 <tr><td>2024.10.20<td>Progateハッカソン<td>最優秀賞<td>Workspace
 </table>
 
-## Languages and Tools
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,react,nextjs,tailwind,expressjs,hono,prisma,firebase,supabase,postgresql,bun,storybook,postman,figma)
+## Main Tech
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,react,nextjs,tailwind,hono,prisma,supabase,bun,storybook,swagger,figma)
+
+## Sub Tech
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=godot,expressjs,firebase,postgresql,postman)
