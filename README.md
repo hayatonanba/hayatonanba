@@ -1,6 +1,6 @@
 ## Hi there 👋
 Hello, I'm Hayato Nanba. <br />
-I'm a sophomore currently in college. <br />
+I'm a junior in college. <br />
 I love doing and learning programming. I am learning everyday. <br />
 Nice to meet you!
 <!--
