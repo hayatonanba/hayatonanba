@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,react,nextjs,tailwind,hono,prisma,supabase,bun,storybook,swagger,figma)
 
 ## Sub Tech
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=godot,expressjs,threejs,astro,firebase,postgresql,vitest,postman,githubactions)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=godot,expressjs,graphql,apollo,drizzle,threejs,astro,firebase,postgresql,vitest,postman,githubactions)
