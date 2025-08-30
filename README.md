@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </table>
 
 ## Main Tech
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,react,nextjs,tailwind,hono,prisma,supabase,bun,storybook,authjs,swagger,figma)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,react,nextjs,tailwind,hono,prisma,supabase,bun,storybook,authjs,swagger,figma)
 
 ## Sub Tech
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=graphql,apollo,drizzle,astro,turso,vitest,githubactions)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=drizzle,astro,turso,vitest,githubactions)
