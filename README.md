@@ -20,25 +20,15 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hayatonanba)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!--
-## Intern
+## Intern🏋️
 <table>
-<tr><td><b>Date</b><td><b>Event</b><td><b>Award</b><td><b>Work</b>
-<tr><td>2024.8.25<td>サポーターズ 技育キャンプハッカソン<td>優秀賞<td>MacLay Rush
-<tr><td>2024.9.15<td>サポーターズ 技育キャンプハッカソン<td>努力賞<td>文化祭サイト
-<tr><td>2024.10.20<td>Progateハッカソン<td>最優秀賞<td>Workspace
+<tr><td><b>Date</b><td><b>Company</b>
+<tr><td>2025.6.28~29<td>株式会社ワンキャリア 2daysインターン
+<tr><td>2025.9.8~30<td>GMOインターネット 実業型長期インターンシップ
+<tr><td>2024.10.1~31<td>サイバーエージェント 実業型インターンシップ(CA Tech Job)
 </table>
 
-## Event
-<table>
-<tr><td><b>Date</b><td><b>Event</b><td><b>Award</b><td><b>Work</b>
-<tr><td>2024.8.25<td>サポーターズ 技育キャンプハッカソン<td>優秀賞<td>MacLay Rush
-<tr><td>2024.9.15<td>サポーターズ 技育キャンプハッカソン<td>努力賞<td>文化祭サイト
-<tr><td>2024.10.20<td>Progateハッカソン<td>最優秀賞<td>Workspace
-</table>
--->
-
-## Award
+## Award🏆
 <table>
 <tr><td><b>Date</b><td><b>Event</b><td><b>Award</b><td><b>Work</b>
 <tr><td>2024.8.25<td>サポーターズ 技育キャンプハッカソン<td>優秀賞<td>MacLay Rush
