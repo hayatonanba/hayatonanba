@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <tr><td><b>Date</b><td><b>Company</b>
 <tr><td>2025.6.28~29<td>株式会社ワンキャリア 2daysインターン
 <tr><td>2025.9.8~30<td>GMOインターネット 実業型長期インターンシップ
-<tr><td>2024.10.1~31<td>サイバーエージェント 実業型インターンシップ(CA Tech Job)
+<tr><td>2025.10.1~31<td>サイバーエージェント 実業型インターンシップ(CA Tech Job)
 </table>
 
 ## Award🏆
