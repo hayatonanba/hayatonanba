@@ -38,7 +38,9 @@ Here are some ideas to get you started:
 -->
 
 ## Main Tech
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,react,nextjs,tailwind,hono,prisma,supabase,bun,storybook,authjs,swagger,figma)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,react,nextjs,tailwind,hono,storybook)
 
+<!--
 ## Sub Tech
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,drizzle,astro,turso,vitest,githubactions)
+-->
